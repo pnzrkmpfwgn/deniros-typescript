@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).  This project is converted to TypeScript for practice purposes there are visual bugs I didn't really fixed. If you want to see the project without bugs refer to this [repository](https://github.com/pnzrkmpfwgn/deniros-v2.0).
 
 ## Getting Started
 

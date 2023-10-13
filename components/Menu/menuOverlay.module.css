@@ -1,0 +1,24 @@
+.nav_li{
+    font-size:30px;
+    padding: 10px;
+}
+.nav_li:hover{
+    scale: 1.2;
+    background-color: rgba(255, 255, 255, 0.1);
+    transition: 0.2s ease-in-out;
+}
+
+.flag{
+    cursor: pointer;
+    position: absolute;
+}
+
+.flag:hover{
+    scale: 1.2;
+    transition: 0.2s ease-in-out;
+}
+
+.flag:active{
+    transition: 0.1s ease-in;
+    scale: 0.8;
+}
